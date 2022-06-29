@@ -1,5 +1,5 @@
 # ShinyArules
-# I modified Andrew Brooks' code to handle transaction data. The sample transaction data is given in Excel file. 
+# I modified Andrew Brooks' code to handle transaction data. The sample transaction data file is given in Excel format. 
 # I ran attached code without any issue in a R versionof MS SQL - R Server. But, when I tried to test on a different machine I ran into some problems. 
 # So, I advice that you install most recent version of R, Rstudio and RTools on your machine. properly.
 # You need to compile package rlang in order to run (install) package devtools properly 
